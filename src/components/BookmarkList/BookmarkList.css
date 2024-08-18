@@ -1,0 +1,10 @@
+.bookmark-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bookmark-list h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
